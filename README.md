@@ -29,13 +29,13 @@ Step 7: Save and run the application.
 ## PROGRAM:
 ```
 Program to print the DatabaseTable using the firebasedatabase”.
-Developed by: Bakkiyalakshmi E
-Registeration Number: 212223220012
+Developed by: POOJASRI L
+Registeration Number: 212223220076
 ```
 
 ### MainActivity.java
 ```java
-package com.example.pmd_01;
+package com.example.firebasepmd1;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.app.AppCompatActivity;
@@ -273,7 +273,7 @@ public class MainActivity extends AppCompatActivity {
 
 ### DatabaseManager.java
 ```java
-package com.example.pmd_01;
+package com.example.firebasepmd1;
 
 import android.content.ContentValues;
 import android.content.Context;
@@ -327,7 +327,7 @@ public class DatabaseManager {
 
 ### DatabaseHelper.java
 ```java
-package com.example.pmd_01;
+package com.example.firebasepmd1;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
